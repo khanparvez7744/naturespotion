@@ -1,0 +1,7 @@
+## Enable robots.txt rules for all crawlers
+User-agent: *
+Allow: /
+
+
+## Website Sitemap
+Sitemap: https://naturespotion.com/sitemap.xml

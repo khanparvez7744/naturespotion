@@ -1,0 +1,663 @@
+[28-Jul-2021 07:20:42 UTC] PHP Warning:  require(inc/header.php): failed to open stream: No such file or directory in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/index.php on line 1
+[28-Jul-2021 07:20:42 UTC] PHP Fatal error:  require(): Failed opening required 'inc/header.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/index.php on line 1
+[28-Jul-2021 07:39:36 UTC] PHP Parse error:  syntax error, unexpected '"header.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/aboutUs.php on line 1
+[28-Jul-2021 07:40:00 UTC] PHP Parse error:  syntax error, unexpected '"header.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/aboutUs.php on line 1
+[28-Jul-2021 08:38:32 UTC] PHP Notice:  Undefined variable: conn in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/contact.php on line 11
+[28-Jul-2021 08:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tojaoh6ml845/public_html/np.mugdhfarm.com/contact.php on line 11
+[31-Jul-2021 07:32:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'npdb10user'@'localhost' (using password: YES) in /home/apisindia/public_html/np/conn.php on line 8
+[31-Jul-2021 07:34:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'npdb10user'@'localhost' (using password: YES) in /home/apisindia/public_html/np/conn.php on line 8
+[31-Jul-2021 09:16:07 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'npdb10user'@'localhost' (using password: YES) in /home/apisindia/public_html/np/conn.php on line 8
+[17-Aug-2021 11:36:28 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:36:28 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:36:28 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:36:28 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:36:28 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:41:55 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:41:55 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:41:55 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:41:55 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:41:55 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:44:41 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:44:41 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:44:41 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:44:41 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:44:41 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:54:35 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:54:35 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:54:35 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:54:35 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:54:35 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 11:54:38 UTC] PHP Notice:  Undefined index: entity_id in /home/apisindia/public_html/np/generate-report-pdf.php on line 18
+[17-Aug-2021 11:54:38 UTC] PHP Notice:  Undefined index: batch_number in /home/apisindia/public_html/np/generate-report-pdf.php on line 19
+[17-Aug-2021 11:54:38 UTC] PHP Notice:  Undefined index: packed_on in /home/apisindia/public_html/np/generate-report-pdf.php on line 20
+[17-Aug-2021 11:54:38 UTC] PHP Notice:  Undefined index: report_no in /home/apisindia/public_html/np/generate-report-pdf.php on line 21
+[17-Aug-2021 12:45:56 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 12:45:56 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 12:45:56 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 12:45:56 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 12:45:56 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 107
+[17-Aug-2021 13:14:42 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:14:42 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:14:42 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:14:42 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:14:42 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:14:48 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[17-Aug-2021 13:14:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[17-Aug-2021 13:14:55 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[17-Aug-2021 13:14:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[17-Aug-2021 13:42:48 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:42:48 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:42:48 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:42:48 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:42:48 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:42:51 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[17-Aug-2021 13:42:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[17-Aug-2021 13:47:53 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:47:53 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:47:53 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:47:53 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:47:53 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:48:07 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[17-Aug-2021 13:48:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[17-Aug-2021 13:48:31 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[17-Aug-2021 13:48:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[17-Aug-2021 13:50:40 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:50:40 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:50:40 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:50:40 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:50:40 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[17-Aug-2021 13:50:50 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[17-Aug-2021 13:50:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[18-Aug-2021 01:27:44 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 01:27:44 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 01:27:44 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 01:27:44 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 01:27:44 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:38:34 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:38:34 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:38:34 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:38:34 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:38:34 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:38:43 UTC] PHP Warning:  getimagesize(img/001.jpg): failed to open stream: No such file or directory in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 1237
+[18-Aug-2021 05:38:43 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/001.jpg in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php:271
+Stack trace:
+#0 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/apisindia/public_html/np/purity-report/pdf/fpdf.php(885): FPDF->_parsejpg('img/001.jpg')
+#2 /home/apisindia/public_html/np/generate-report-pdf.php(66): FPDF->Image('img/001.jpg', 0, 0, 210, 297, 'jpg', '', '', false, 300, '', false, false, 0)
+#3 {main}
+  thrown in /home/apisindia/public_html/np/purity-report/pdf/fpdf.php on line 271
+[18-Aug-2021 05:47:36 UTC] PHP Notice:  Undefined variable: to2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:47:36 UTC] PHP Notice:  Undefined variable: subject2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:47:36 UTC] PHP Notice:  Undefined variable: msg2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:47:36 UTC] PHP Notice:  Undefined variable: headers2 in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:47:36 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/apisindia/public_html/np/batch-report-result.php on line 38
+[18-Aug-2021 05:53:17 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:53:17 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:53:17 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:53:17 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:53:37 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:53:37 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:53:37 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:53:37 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:53:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:53:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:53:38 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:53:38 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:53:40 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:53:40 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:53:40 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:53:40 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:54:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:54:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:54:00 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:54:00 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:54:01 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:54:01 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:54:01 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:54:01 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:54:02 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:54:02 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:54:02 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:54:02 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:54:03 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:56:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:56:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:56:38 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:56:38 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:58:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:58:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:58:03 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:58:03 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:58:23 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:58:23 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:58:23 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:58:23 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:58:40 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:58:40 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:58:40 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:58:40 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:58:50 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:58:50 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:58:50 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:58:50 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 05:59:58 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 05:59:58 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 05:59:58 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 05:59:58 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:00:24 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:00:24 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:00:24 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:00:24 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:02:36 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:02:36 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:02:36 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:02:36 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:02:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:02:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:02:38 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:02:38 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:03:35 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:03:35 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:03:35 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:03:35 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:03:36 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:03:36 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:03:36 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:03:36 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:04:31 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:04:31 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:04:31 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:04:31 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:08:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:08:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:08:03 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:08:03 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:08:04 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:08:04 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:08:04 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:08:04 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:09:31 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:09:31 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:09:31 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:09:31 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:10:58 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:10:58 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:10:58 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:10:58 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:11:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:11:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:11:00 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:11:00 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:11:11 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:11:11 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:11:11 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:11:11 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:12:02 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:12:02 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:12:02 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:12:02 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:24:01 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:24:01 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:24:01 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:24:01 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:24:04 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:24:04 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:24:04 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:24:04 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:24:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:24:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:24:38 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:24:38 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:24:39 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:24:39 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:24:39 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:24:39 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:24:41 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:24:41 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:24:41 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:24:41 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:25:39 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:25:39 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:25:39 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:25:39 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:26:20 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:26:20 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:26:20 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:26:20 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:26:21 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:26:21 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:26:21 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:26:21 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:29:59 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:29:59 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:29:59 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:29:59 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:30:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:30:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:30:03 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:30:03 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:30:07 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:30:07 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:30:07 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:30:07 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:30:37 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:30:37 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:30:37 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:30:37 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:30:40 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:30:40 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:30:40 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:30:40 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:46:33 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:46:33 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:46:33 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:46:33 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[18-Aug-2021 06:46:34 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[18-Aug-2021 06:46:34 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[18-Aug-2021 06:46:34 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[18-Aug-2021 06:46:34 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[24-Aug-2021 06:36:42 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[24-Aug-2021 06:36:42 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[24-Aug-2021 06:36:42 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[24-Aug-2021 06:36:42 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[06-Sep-2021 07:46:21 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 4
+[06-Sep-2021 07:46:21 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/np/batch-report-result.php on line 6
+[06-Sep-2021 07:46:21 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/np/batch-report-result.php on line 7
+[06-Sep-2021 07:46:21 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/np/batch-report-result.php on line 8
+[11-Sep-2021 12:55:34 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 4
+[11-Sep-2021 12:55:34 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[11-Sep-2021 12:55:34 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[11-Sep-2021 12:55:34 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 8
+[14-Sep-2021 14:08:50 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[14-Sep-2021 14:08:50 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[14-Sep-2021 14:08:50 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[14-Sep-2021 14:08:50 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[14-Sep-2021 19:54:08 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[14-Sep-2021 19:54:08 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[14-Sep-2021 19:54:08 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[14-Sep-2021 19:54:08 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[15-Sep-2021 01:45:15 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[15-Sep-2021 01:45:15 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[15-Sep-2021 01:45:15 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[15-Sep-2021 01:45:15 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[15-Sep-2021 10:04:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[15-Sep-2021 10:04:03 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[15-Sep-2021 10:04:03 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[15-Sep-2021 10:04:03 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[16-Sep-2021 09:31:50 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[16-Sep-2021 09:31:50 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[16-Sep-2021 09:31:50 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[16-Sep-2021 09:31:50 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[18-Sep-2021 06:39:08 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[18-Sep-2021 06:39:08 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[18-Sep-2021 06:39:08 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[18-Sep-2021 06:39:08 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[23-Sep-2021 12:57:59 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[23-Sep-2021 12:58:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[23-Sep-2021 12:58:00 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[23-Sep-2021 12:58:00 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[23-Sep-2021 17:04:42 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[23-Sep-2021 17:04:42 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[23-Sep-2021 17:04:42 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[23-Sep-2021 17:04:42 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[29-Sep-2021 03:08:56 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[29-Sep-2021 03:08:56 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[29-Sep-2021 03:08:56 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[29-Sep-2021 03:08:56 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[30-Sep-2021 05:46:02 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[30-Sep-2021 05:46:02 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[30-Sep-2021 05:46:02 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[30-Sep-2021 05:46:02 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[02-Oct-2021 22:10:22 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[02-Oct-2021 22:10:22 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[02-Oct-2021 22:10:22 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[02-Oct-2021 22:10:22 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[05-Oct-2021 12:52:25 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[05-Oct-2021 12:52:25 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[05-Oct-2021 12:52:25 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[05-Oct-2021 12:52:25 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[05-Oct-2021 18:59:18 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[05-Oct-2021 18:59:18 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[05-Oct-2021 18:59:18 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[05-Oct-2021 18:59:18 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[06-Oct-2021 02:09:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[06-Oct-2021 02:09:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[06-Oct-2021 02:09:38 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[06-Oct-2021 02:09:38 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[06-Oct-2021 22:10:55 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[06-Oct-2021 22:10:55 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[06-Oct-2021 22:10:55 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[06-Oct-2021 22:10:55 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[07-Oct-2021 21:27:05 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[07-Oct-2021 21:27:05 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[07-Oct-2021 21:27:05 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[07-Oct-2021 21:27:05 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[10-Oct-2021 12:26:45 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[10-Oct-2021 12:26:45 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[10-Oct-2021 12:26:45 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[10-Oct-2021 12:26:45 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[12-Oct-2021 12:41:48 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[12-Oct-2021 12:41:48 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[12-Oct-2021 12:41:48 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[12-Oct-2021 12:41:48 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[12-Oct-2021 12:41:53 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[12-Oct-2021 12:41:53 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[12-Oct-2021 12:41:53 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[12-Oct-2021 12:41:53 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[12-Oct-2021 12:42:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 3
+[12-Oct-2021 12:42:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 5
+[12-Oct-2021 12:42:00 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 6
+[12-Oct-2021 12:42:00 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 7
+[13-Oct-2021 11:39:32 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[13-Oct-2021 11:39:32 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[13-Oct-2021 11:39:32 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[13-Oct-2021 11:39:32 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[15-Oct-2021 20:10:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[15-Oct-2021 20:10:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[15-Oct-2021 20:10:00 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[15-Oct-2021 20:10:00 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[18-Oct-2021 02:41:58 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[18-Oct-2021 02:41:58 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[18-Oct-2021 02:41:58 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[18-Oct-2021 02:41:58 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[18-Oct-2021 16:56:47 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[18-Oct-2021 16:56:47 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[18-Oct-2021 16:56:47 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[18-Oct-2021 16:56:47 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[19-Oct-2021 04:13:13 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[19-Oct-2021 04:13:13 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[19-Oct-2021 04:13:13 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[19-Oct-2021 04:13:13 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[28-Oct-2021 07:45:29 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[28-Oct-2021 07:45:30 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[28-Oct-2021 07:45:30 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[28-Oct-2021 07:45:30 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[31-Oct-2021 06:37:19 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[31-Oct-2021 06:37:19 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[31-Oct-2021 06:37:19 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[31-Oct-2021 06:37:19 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[01-Nov-2021 09:04:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[01-Nov-2021 09:04:38 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[01-Nov-2021 09:04:38 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[01-Nov-2021 09:04:38 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[02-Nov-2021 19:44:20 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[02-Nov-2021 19:44:20 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[02-Nov-2021 19:44:20 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[02-Nov-2021 19:44:20 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[06-Nov-2021 14:50:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[06-Nov-2021 14:50:00 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[06-Nov-2021 14:50:00 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[06-Nov-2021 14:50:00 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[08-Nov-2021 17:22:14 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[08-Nov-2021 17:22:14 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[08-Nov-2021 17:22:14 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[08-Nov-2021 17:22:14 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[09-Nov-2021 12:32:55 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[09-Nov-2021 12:32:55 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[09-Nov-2021 12:32:55 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[09-Nov-2021 12:32:55 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[12-Nov-2021 23:00:49 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[12-Nov-2021 23:00:49 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[12-Nov-2021 23:00:49 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[12-Nov-2021 23:00:49 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[13-Nov-2021 15:00:20 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[13-Nov-2021 15:00:20 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[13-Nov-2021 15:00:20 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[13-Nov-2021 15:00:20 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[15-Nov-2021 16:25:45 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[15-Nov-2021 16:25:45 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[15-Nov-2021 16:25:45 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[15-Nov-2021 16:25:45 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[17-Nov-2021 22:52:26 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[17-Nov-2021 22:52:26 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[17-Nov-2021 22:52:26 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[17-Nov-2021 22:52:26 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[18-Nov-2021 13:43:01 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[18-Nov-2021 13:43:01 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[18-Nov-2021 13:43:01 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[18-Nov-2021 13:43:01 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[19-Nov-2021 06:52:37 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[19-Nov-2021 06:52:37 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[19-Nov-2021 06:52:37 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[19-Nov-2021 06:52:37 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[21-Nov-2021 07:02:21 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[21-Nov-2021 07:02:21 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[21-Nov-2021 07:02:21 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[21-Nov-2021 07:02:21 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[21-Nov-2021 09:31:10 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[21-Nov-2021 09:31:10 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[21-Nov-2021 09:31:10 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[21-Nov-2021 09:31:10 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[21-Nov-2021 21:36:14 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[21-Nov-2021 21:36:14 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[21-Nov-2021 21:36:14 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[21-Nov-2021 21:36:14 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[24-Nov-2021 09:05:07 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[24-Nov-2021 09:05:07 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[24-Nov-2021 09:05:07 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[24-Nov-2021 09:05:07 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[29-Nov-2021 10:48:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:04 UTC] PHP Warning:  mysqli::query(): (23000/1062): Duplicate entry '~A9615C78430D~1' for key 'group_key' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 10:49:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:04 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry '~A9615C78430D~1' for key 'group_key' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 10:49:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:25 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:42 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:53 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:54 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:49:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:25 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:53 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:50:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:16 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:42 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:54 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:51:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:12 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:21 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:26 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:53 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:52:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:12 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:16 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:25 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 10:53:26 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:02 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~0~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:02 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~0~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:02 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~2~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:02 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~2~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:03 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~1~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:03 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~1~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:04 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~npdbdata~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:04 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~npdbdata~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:05 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~npdbdata~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:05 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~npdbdata~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:05 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~admin~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:05 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~admin~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:06 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~admin~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:06 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~admin~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:06 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~1~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:06 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~1~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[29-Nov-2021 11:38:07 UTC] PHP Warning:  mysqli::query(): (HY000/1105): XPATH syntax error: '~1~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 15
+[29-Nov-2021 11:38:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 16
+[29-Nov-2021 11:38:07 UTC] PHP Warning:  mysqli_query(): (HY000/1105): XPATH syntax error: '~1~' in /home/apisindia/public_html/naturespotion.com/generate-report-pdf.php on line 55
+[01-Dec-2021 12:32:22 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[01-Dec-2021 12:32:22 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[01-Dec-2021 12:32:22 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[01-Dec-2021 12:32:22 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
+[01-Dec-2021 20:12:35 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 44
+[01-Dec-2021 20:12:35 UTC] PHP Notice:  Undefined index: search in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 46
+[01-Dec-2021 20:12:35 UTC] PHP Notice:  Undefined index: c_mobile in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 47
+[01-Dec-2021 20:12:35 UTC] PHP Notice:  Undefined index: c_name in /home/apisindia/public_html/naturespotion.com/batch-report-result.php on line 48
